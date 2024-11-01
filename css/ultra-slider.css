@@ -1,0 +1,14 @@
+#clkt-cpt-primary {
+    margin: 0 auto;
+    width: 100%;
+}
+
+#clkt-inner-cpt{
+    margin: 0 auto;
+    width: 80%;
+}
+#clkt-cpt-primary h1{
+    font-size: 36px;
+    color:#008EC2 ;
+    font-weight: bold;
+}
